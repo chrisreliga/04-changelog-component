@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This is my **Project 04 - Changelog Component** from the [Frontend Roadmap](https://roadmap.sh/projects/portfolio-website) projects.
+This is my **Project 04 - Changelog Component** from the [Frontend Roadmap](https://roadmap.sh/projects/changelog-component) projects.
 
 ## Live Project
 [View Live Project](https://chrisreliga.github.io/04-changelog-component/)
